@@ -1,6 +1,5 @@
 import yaml
-import os
-import time
+
 
 def read_config(config_path):
     with open(config_path) as config_file:
